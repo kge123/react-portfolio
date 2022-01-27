@@ -13,13 +13,14 @@ function App() {
           <Navbar.Brand href="#home"></Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Features</Nav.Link>
             <Nav.Link href="#portfolio">Portfolio</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
         </Container>
-        <Portfolio></Portfolio>
+       
         
       </Navbar>
+      <Portfolio/>
 
       <Footer />
 
