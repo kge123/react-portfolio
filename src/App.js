@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Portfolio from "./components/Portfolio";
 import Home from "./components/Home";
+import Contact from "./components/Contact";
 import { Navbar, Container, Nav } from "react-bootstrap";
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
       return <Portfolio />;
     }
     if (page === "Contact") {
-      return "contact page goes here";
+      return <Contact />;
     } else {
       return <Home />;
     }
