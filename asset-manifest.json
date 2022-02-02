@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.0926ee33.css",
-    "main.js": "/react-portfolio/static/js/main.4799325a.js",
+    "main.css": "/react-portfolio/static/css/main.cacdde99.css",
+    "main.js": "/react-portfolio/static/js/main.8f19861f.js",
     "static/js/787.e29dc422.chunk.js": "/react-portfolio/static/js/787.e29dc422.chunk.js",
+    "static/media/PokeGoMobile.png": "/react-portfolio/static/media/PokeGoMobile.6f784449e0049a9c4d7a.png",
+    "static/media/CryptoDashboard.png": "/react-portfolio/static/media/CryptoDashboard.7cd465695e8748d205d8.png",
+    "static/media/ECommerceBackend.jpg": "/react-portfolio/static/media/ECommerceBackend.7e32b51b09e15eb9aa5e.jpg",
+    "static/media/SocialMediaAPI.jpg": "/react-portfolio/static/media/SocialMediaAPI.b1c2dc0cf59b00f3df74.jpg",
+    "static/media/JustAnotherTextEditor.jpg": "/react-portfolio/static/media/JustAnotherTextEditor.49f612449fb7fe08f5ea.jpg",
+    "static/media/NoteTaker.jpg": "/react-portfolio/static/media/NoteTaker.1d59592cf798384e20e9.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.0926ee33.css.map": "/react-portfolio/static/css/main.0926ee33.css.map",
-    "main.4799325a.js.map": "/react-portfolio/static/js/main.4799325a.js.map",
+    "main.cacdde99.css.map": "/react-portfolio/static/css/main.cacdde99.css.map",
+    "main.8f19861f.js.map": "/react-portfolio/static/js/main.8f19861f.js.map",
     "787.e29dc422.chunk.js.map": "/react-portfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0926ee33.css",
-    "static/js/main.4799325a.js"
+    "static/css/main.cacdde99.css",
+    "static/js/main.8f19861f.js"
   ]
 }
